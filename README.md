@@ -1,4 +1,4 @@
-# Password List Generator
+# PasswordList enerator
 Create a password wordlist with patterns and known info.
 
 ## About

@@ -8,29 +8,29 @@ if(len(dob)==8):
     month=dob[2:4]
     year=dob[4:]
 else:
-    print("Wrong format for DOB, make sure it is 8 numbers in DDMMYYYY")
+    print("Wrong format for DOB, make sure it is 8 numbers in the format DDMMYYYY")
     exit()
 
-phoneNo=input("Enter phone no:")
+phoneNo=input("Enter phone number:")
 
 def ListOfImportantWords():
     names.append(input("First name:"))
-    names.append(input("Surname:"))
+    names.append(input("Last name:"))
     names.append(input("Nickname:"))
     print("\n")
-    names.append(input("Partners name:"))
-    names.append(input("Partners Nickname:"))
+    names.append(input("Friends name:"))
+    names.append(input("Friends Nickname:"))
     print("\n")
     names.append(input("Pets name:"))
-    names.append(input("Company name:"))
+    names.append(input("Your Job  name:"))
     print("\n")
-    names.append(input("Childs name:"))
-    names.append(input("Childs nickname:"))
+    names.append(input("Another friends name:"))
+    names.append(input("Another friends nickname:"))
     print("\n")
     names.append(input("City:"))
     names.append(input("Country:"))
     names.append(input("Favorite color:"))
-    print("Enter all other keywords: ")
+    print("Enter any other words (optional): ")
     while True:
         inp = input()
         if inp == '':

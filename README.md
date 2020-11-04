@@ -1,4 +1,4 @@
-## PasswordListGenerator
+# PasswordListGenerator
 Create a password wordlist with patterns and known info.
 
 ## About

@@ -22,7 +22,7 @@ def ListOfImportantWords():
     names.append(input("Friends Nickname:"))
     print("\n")
     names.append(input("Pets name:"))
-    names.append(input("Your Job  name:"))
+    names.append(input("Your Job name:"))
     print("\n")
     names.append(input("Another friends name:"))
     names.append(input("Another friends nickname:"))

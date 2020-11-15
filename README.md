@@ -20,7 +20,7 @@ This program is an interactive list generator that will create a password wordli
 ### Usage
 
 Run the interactive program at:
-https://tinyurl.com/y29vxupn
+<https://tinyurl.com/y29vxupn>
 
 The password list will be created in the same directory as wordlist.txt
 

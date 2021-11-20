@@ -23,9 +23,9 @@ Run the interactive program at:
 
 Rename the file "gistfile1.txt" to "PasswordListGenerator.ipynb"
 
-And run it!
+Then click one cell at a time and press shift+enter
 
-The password list will be created in the same directory as wordlist.txt
+Then your passwords will be created in the same directory as "wordlist.txt"
 
 ### Requirements
 Python 3

@@ -21,8 +21,6 @@ This program is an interactive list generator that will create a password wordli
 Run the interactive program at:
 <https://tiny.one/PasswordListGenerator>
 
-Rename the file "gistfile1.txt" to "PasswordListGenerator.ipynb"
-
 Then click one cell at a time and press shift+enter
 
 Then your passwords will be created in the same directory as "wordlist.txt"

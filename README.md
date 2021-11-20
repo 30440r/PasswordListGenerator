@@ -24,5 +24,4 @@ Run the interactive program at:
 The password list will be created in the same directory as wordlist.txt
 
 ### Requirements
-
 Python 3

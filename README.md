@@ -3,8 +3,7 @@ Create a password wordlist with patterns and known info.
 
 ## About
 
-Humans include personal information in their passwords.
-such as:
+Enter some info and generate a list of secure passwords:
 
 * Their own name or the name of a family member
 * Their pet’s name

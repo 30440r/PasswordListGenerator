@@ -1,6 +1,5 @@
-# PasswordListGenerator
+# PasswordListGenerator [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/30440r/186f0a96dfd4d55e19388b198c69eade/HEAD)
 Create a password wordlist with patterns and known info.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/30440r/186f0a96dfd4d55e19388b198c69eade/HEAD)
 
 ## About
 
